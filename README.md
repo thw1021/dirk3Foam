@@ -14,6 +14,6 @@ DIRK3-3: Diagonally Implict Runge-Kutta (3rd order, 3 stages)
    The code compiles with both OpenFOAM v2112 and OpenFOAM 6. 
    
    
-   Acknowlegements:
+  Acknowledgements:
    Special thanks to Lianxia Li, University of Wyoming, lli16@uwyo.edu
    for solver porting to recent OpenFOAM versions.
